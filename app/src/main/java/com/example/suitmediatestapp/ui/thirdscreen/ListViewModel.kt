@@ -10,7 +10,6 @@ import androidx.paging.cachedIn
 import com.example.suitmediatestapp.data.UserRepository
 import com.example.suitmediatestapp.di.Injection
 import com.example.suitmediatestapp.network.DataItem
-import com.example.suitmediatestapp.network.UserResponseItem
 
 class ListViewModel(userRepository: UserRepository) : ViewModel() {
 

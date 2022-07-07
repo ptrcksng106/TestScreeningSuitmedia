@@ -7,7 +7,6 @@ import androidx.paging.PagingData
 import androidx.paging.liveData
 import com.example.suitmediatestapp.network.ApiService
 import com.example.suitmediatestapp.network.DataItem
-import com.example.suitmediatestapp.network.UserResponseItem
 
 class UserRepository(private val apiService: ApiService) {
     fun getUser(): LiveData<PagingData<DataItem>> {
