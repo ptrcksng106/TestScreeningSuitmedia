@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SuitMediaTestApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="choose_a_user">choose a user</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">email@email.com</string>
+    <string name="coba_lagi">Coba lagi</string>
+</resources>
